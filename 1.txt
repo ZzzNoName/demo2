@@ -1,5 +1,2 @@
+master
 dev
-asd
-asd
-as
-dddddddd
